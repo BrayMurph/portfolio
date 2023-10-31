@@ -162,6 +162,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "brayxmurph@gmail.com",
+  phone: "(704)-232-8023",
 };
