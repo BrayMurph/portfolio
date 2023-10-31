@@ -22,7 +22,7 @@ function Technologies() {
           Tech Stack
         </h1>
         <p className="text-content py-2 lg:max-w-3xl">
-          Technologies I've been working with recently
+          Technologies I have used in my coding bootcamp!
         </p>
       </section>
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
