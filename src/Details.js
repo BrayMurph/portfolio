@@ -26,11 +26,6 @@ import projectImage5 from "./assets/projects/project5.jpg";
 import projectImage6 from "./assets/projects/project6.jpg";
 
 // Logos
-export const logos = {
-  logogradient: logogradient,
-  logo: logo,
-};
-
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Brayden Murphy",
