@@ -18,8 +18,8 @@ import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
 // Porject Images
-import projectImage1 from "./assets/projects/Screenshot 2023-10-31 033259.png";
-import projectImage2 from "./assets/projects/Screenshot 2023-10-31 03473712.png";
+import projectImage1 from "./assets/projects/project1.jpg";
+import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
 import projectImage5 from "./assets/projects/project5.jpg";
