@@ -43,10 +43,8 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/brayden-murphy-6677b41a2/",
+  github: "https://github.com/BrayMurph",
 };
 
 // Enter your Work Experience here
@@ -99,15 +97,12 @@ export const techStackDetails = {
   js: js,
   react: react,
   redux: redux,
-  sass: sass,
   tailwind: tailwind,
   bootstrap: bootstrap,
   vscode: vscode,
-  postman: postman,
   npm: npm,
   git: git,
   github: github,
-  figma: figma,
 };
 
 // Enter your Project Details here
