@@ -50,25 +50,25 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Psychiatric Technician & Patient Safety Attendant",
+    Company: `Atrium Health`,
+    Location: "Charlotte",
+    Type: "Part Time",
+    Duration: "Apr 2022 - Present",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Garden Associate",
+    Company: `Lowes`,
+    Location: "Charlotte",
+    Type: "Part Time",
+    Duration: "Sept 2020 - Aug 2021",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Starbucks Barista & Fresh Foods Associate",
+    Company: `Harris Teeter`,
+    Location: "Charlotte",
+    Type: "Part Time",
+    Duration: "May 2019 - Sept 2020",
   },
 ];
 
