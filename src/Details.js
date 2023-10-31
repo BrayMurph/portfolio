@@ -147,6 +147,14 @@ export const projectDetails = [
     previewLink: "https://braymurph.github.io/Day-Work-Scheduler/",
     githubLink: "https://github.com/BrayMurph/Day-Work-Scheduler",
   },
+  {
+    title: "Employee Tracker",
+    image: projectImage6,
+    description: `A MySQL application that manages an employee database.`,
+    techstack: "HTML/CSS, JavaScript",
+    previewLink: "https://github.com/BrayMurph/Employee-Tracker#video-demonstration",
+    githubLink: "https://github.com/BrayMurph/Employee-Tracker",
+  },
 ];
 
 // Enter your Contact Details here
