@@ -75,18 +75,18 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
+    Position: "Full Stack Web Developer Certificate",
+    Company: "University at North Carolina at Charlotte",
     Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Type: "Part Time",
+    Duration: "April 2023 - October 2023",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
+    Position: "Associates in Engineering",
+    Company: `Central Piedmont Community College`,
+    Location: "Charlotte",
     Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "Aug 2018 - June 2021",
   },
 ];
 
@@ -108,28 +108,25 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Dict Pic",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `A website in which the user searches a word and gets GIFs and definitions generated on the screen.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 2",
+    title: "Travel XP",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `A website in when the user searches they get venues in the area in which they searched.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 3",
+    title: "BITS Review",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `A website in which the user can make an account to leave reviews on games.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
